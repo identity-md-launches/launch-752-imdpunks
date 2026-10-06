@@ -191,6 +191,11 @@ contract ArtTest is Test {
         }
     }
 
+    /// forge-config: default.fuzz.runs = 256
+    function testFuzzMintedMetadataAndImageRoundTrip(uint256 seed) public {
+        this.checkMetadata(bound(seed, 0, 9999));
+    }
+
     /// @dev A fresh external frame releases parser/renderer scratch memory between samples.
     function checkMetadata(uint256 number) external {
         string memory beforeImage = punks.imageOf(number);

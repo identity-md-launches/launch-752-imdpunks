@@ -6,5 +6,5 @@
       "constructorArgs": ["0x2E28b29560a6d4812E58680484c685D0352f8ff9"]
     }
   ],
-  "notes": "Zero-value deployment. IMDPunks creates its immutable IMDPunksArt renderer in its constructor. The sole address argument is the reserve beneficiary, not an administrator. No initialization, token, distributor or pool is required."
+  "notes": "Deploy IMDPunks with zero ETH and the specified reserve beneficiary as its sole address constructor argument. The constructor assigns ids 0-197, 777 and 888 to 0x2E28b29560a6d4812E58680484c685D0352f8ff9 and creates the immutable IMDPunksArt renderer internally. No separate renderer deployment or initialization call is needed. The collection is named IMDPunks, symbol IMDPUNK, with a maximum supply of 10000 and five free lifetime public claims per address. Art and metadata are fully on-chain with 87 accessories. The reserve beneficiary has no administrative role, and the factory receives no allocation or authority. There is no owner, upgrade, pause, fee, royalty, withdrawal, launch token or pool."
 }

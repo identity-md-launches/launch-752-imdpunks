@@ -1,0 +1,10 @@
+{
+  "kind": "evm_contracts",
+  "contracts": [
+    {
+      "contract": "IMDPunks",
+      "constructorArgs": ["0x2E28b29560a6d4812E58680484c685D0352f8ff9"]
+    }
+  ],
+  "notes": "Zero-value deployment. IMDPunks creates its immutable IMDPunksArt renderer in its constructor. The sole address argument is the reserve beneficiary, not an administrator. No initialization, token, distributor or pool is required."
+}

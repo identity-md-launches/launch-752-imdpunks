@@ -1,0 +1,524 @@
+[
+  {
+    "id": 0,
+    "name": "Signal Crest",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 1,
+    "name": "Tidal Fold",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Ember Part",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 3,
+    "name": "Orbit Brim",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 4,
+    "name": "Kiln Wrap",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 5,
+    "name": "Copper Sprouts",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 6,
+    "name": "Harbor Roof",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 7,
+    "name": "Lattice Crown",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 8,
+    "name": "Cobalt Wave",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 9,
+    "name": "Dune Roll",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 10,
+    "name": "Moss Peak",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 11,
+    "name": "Night Antenna",
+    "slot": 0,
+    "set": "Male"
+  },
+  {
+    "id": 12,
+    "name": "Amber Bridges",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 13,
+    "name": "Split Prism",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 14,
+    "name": "Wave Readers",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 15,
+    "name": "Bolt Lenses",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 16,
+    "name": "Cloud Shields",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 17,
+    "name": "Dusk Frames",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 18,
+    "name": "Thread Monocle",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 19,
+    "name": "Teal Browbar",
+    "slot": 1,
+    "set": "Male"
+  },
+  {
+    "id": 20,
+    "name": "Coral Grin",
+    "slot": 2,
+    "set": "Male"
+  },
+  {
+    "id": 21,
+    "name": "Silver Toothline",
+    "slot": 2,
+    "set": "Male"
+  },
+  {
+    "id": 22,
+    "name": "Mint Stem",
+    "slot": 2,
+    "set": "Male"
+  },
+  {
+    "id": 23,
+    "name": "Pebble Lip",
+    "slot": 2,
+    "set": "Male"
+  },
+  {
+    "id": 24,
+    "name": "Ochre Breath",
+    "slot": 2,
+    "set": "Male"
+  },
+  {
+    "id": 25,
+    "name": "Cinder Jaw",
+    "slot": 3,
+    "set": "Male"
+  },
+  {
+    "id": 26,
+    "name": "Twin Stubble",
+    "slot": 3,
+    "set": "Male"
+  },
+  {
+    "id": 27,
+    "name": "Rust Chevron",
+    "slot": 3,
+    "set": "Male"
+  },
+  {
+    "id": 28,
+    "name": "Coal Crescent",
+    "slot": 3,
+    "set": "Male"
+  },
+  {
+    "id": 29,
+    "name": "Walnut Fork",
+    "slot": 3,
+    "set": "Male"
+  },
+  {
+    "id": 30,
+    "name": "Slate Whiskers",
+    "slot": 3,
+    "set": "Male"
+  },
+  {
+    "id": 31,
+    "name": "Signal Stud",
+    "slot": 4,
+    "set": "Male"
+  },
+  {
+    "id": 32,
+    "name": "Copper Ladder",
+    "slot": 4,
+    "set": "Male"
+  },
+  {
+    "id": 33,
+    "name": "Tidal Hook",
+    "slot": 4,
+    "set": "Male"
+  },
+  {
+    "id": 34,
+    "name": "Azure Pin",
+    "slot": 4,
+    "set": "Male"
+  },
+  {
+    "id": 35,
+    "name": "Saffron Loop",
+    "slot": 5,
+    "set": "Male"
+  },
+  {
+    "id": 36,
+    "name": "Harbor Collar",
+    "slot": 5,
+    "set": "Male"
+  },
+  {
+    "id": 37,
+    "name": "Brick Kerchief",
+    "slot": 5,
+    "set": "Male"
+  },
+  {
+    "id": 38,
+    "name": "Orbit Beads",
+    "slot": 5,
+    "set": "Male"
+  },
+  {
+    "id": 39,
+    "name": "Iris Clasp",
+    "slot": 5,
+    "set": "Male"
+  },
+  {
+    "id": 40,
+    "name": "Dawn Steps",
+    "slot": 6,
+    "set": "Male"
+  },
+  {
+    "id": 41,
+    "name": "Circuit Cheek",
+    "slot": 6,
+    "set": "Male"
+  },
+  {
+    "id": 42,
+    "name": "Tide Dashes",
+    "slot": 6,
+    "set": "Male"
+  },
+  {
+    "id": 43,
+    "name": "Ember Mosaic",
+    "slot": 6,
+    "set": "Male"
+  },
+  {
+    "id": 44,
+    "name": "Petal Turret",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 45,
+    "name": "Ribbon Shoal",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 46,
+    "name": "Indigo Fan",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 47,
+    "name": "Sunrise Fold",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 48,
+    "name": "Pearl Canopy",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 49,
+    "name": "Willow Combs",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 50,
+    "name": "Rose Switchback",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 51,
+    "name": "Lagoon Halo",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 52,
+    "name": "Marigold Sweep",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 53,
+    "name": "Velvet Arches",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 54,
+    "name": "Opal Ladder",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 55,
+    "name": "Twilight Spire",
+    "slot": 0,
+    "set": "Female"
+  },
+  {
+    "id": 56,
+    "name": "Petal Bridges",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 57,
+    "name": "Rose Prisms",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 58,
+    "name": "Lagoon Readers",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 59,
+    "name": "Starling Lenses",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 60,
+    "name": "Lilac Shields",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 61,
+    "name": "Sunlit Frames",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 62,
+    "name": "Pearl Monocle",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 63,
+    "name": "Iris Browbar",
+    "slot": 1,
+    "set": "Female"
+  },
+  {
+    "id": 64,
+    "name": "Berry Smile",
+    "slot": 2,
+    "set": "Female"
+  },
+  {
+    "id": 65,
+    "name": "Opal Toothline",
+    "slot": 2,
+    "set": "Female"
+  },
+  {
+    "id": 66,
+    "name": "Clover Stem",
+    "slot": 2,
+    "set": "Female"
+  },
+  {
+    "id": 67,
+    "name": "Garnet Lip",
+    "slot": 2,
+    "set": "Female"
+  },
+  {
+    "id": 68,
+    "name": "Apricot Breath",
+    "slot": 2,
+    "set": "Female"
+  },
+  {
+    "id": 69,
+    "name": "Velvet Wisp",
+    "slot": 3,
+    "set": "Female"
+  },
+  {
+    "id": 70,
+    "name": "Copper Chin Arc",
+    "slot": 3,
+    "set": "Female"
+  },
+  {
+    "id": 71,
+    "name": "Lilac Sideburns",
+    "slot": 3,
+    "set": "Female"
+  },
+  {
+    "id": 72,
+    "name": "Sable Chin Tuft",
+    "slot": 3,
+    "set": "Female"
+  },
+  {
+    "id": 73,
+    "name": "Rose Jaw Fringe",
+    "slot": 3,
+    "set": "Female"
+  },
+  {
+    "id": 74,
+    "name": "Petal Stud",
+    "slot": 4,
+    "set": "Female"
+  },
+  {
+    "id": 75,
+    "name": "Opal Ladder Drop",
+    "slot": 4,
+    "set": "Female"
+  },
+  {
+    "id": 76,
+    "name": "Lagoon Hook",
+    "slot": 4,
+    "set": "Female"
+  },
+  {
+    "id": 77,
+    "name": "Rose Pin",
+    "slot": 4,
+    "set": "Female"
+  },
+  {
+    "id": 78,
+    "name": "Iris Loop",
+    "slot": 5,
+    "set": "Female"
+  },
+  {
+    "id": 79,
+    "name": "Petal Collar",
+    "slot": 5,
+    "set": "Female"
+  },
+  {
+    "id": 80,
+    "name": "Lagoon Kerchief",
+    "slot": 5,
+    "set": "Female"
+  },
+  {
+    "id": 81,
+    "name": "Dawn Beads",
+    "slot": 5,
+    "set": "Female"
+  },
+  {
+    "id": 82,
+    "name": "Opal Clasp",
+    "slot": 5,
+    "set": "Female"
+  },
+  {
+    "id": 83,
+    "name": "Petal Steps",
+    "slot": 6,
+    "set": "Female"
+  },
+  {
+    "id": 84,
+    "name": "Starling Cheek",
+    "slot": 6,
+    "set": "Female"
+  },
+  {
+    "id": 85,
+    "name": "Dawn Dashes",
+    "slot": 6,
+    "set": "Female"
+  },
+  {
+    "id": 86,
+    "name": "Opal Mosaic",
+    "slot": 6,
+    "set": "Female"
+  }
+]
